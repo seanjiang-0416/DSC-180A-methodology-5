@@ -1,0 +1,8 @@
+1. What is the most interesting topic covered in your domain this quarter? \\
+Answer: Misinformation can be composed of factuality factors, and each factuality factors can be measured through several microfactors. Developing seperate models for each factuality factor and combining them to improve the accuracy of detect misinformation is the most interesting topic covered in my domain this quarter. \\
+2. Describe a potential investigation you would like to pursue for your Quarter 2 Project. \\
+Answer: I would like to further explore in generative AI that gives justification of certain prediction given by the predictive AI which is the combined model we were mainly working on this quarter. \\
+3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project? \\
+Answer: A potential change in the approach could involve incorporating more diverse datasets or refining the feature selection process (how to measure the microfactors). Additionally, exploring different machine learning algorithms or fine-tuning existing ones might be considered to enhance the overall model performance. \\
+4. What other techniques would you be interested in using in your project? \\
+Answer: Considering the focus on misinformation detection, exploring more natural language processing (NLP) techniques, transformmers, and Large Language Model like BERT or GPT for more advanced language understanding could be valuable. Additionally, integrating data augmentation techniques or exploring transfer learning approaches might contribute to better model generalization. \\
